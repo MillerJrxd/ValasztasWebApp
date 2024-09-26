@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\konya.benedek\\source\\repos\\Valasztas\\Valasztas\\Valasztas.csproj": {}
+    "C:\\Users\\konya.benedek\\Source\\Repos\\WebAppAdatbazis\\Valasztas\\Valasztas\\Valasztas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\konya.benedek\\source\\repos\\Valasztas\\Valasztas\\Valasztas.csproj": {
+    "C:\\Users\\konya.benedek\\Source\\Repos\\WebAppAdatbazis\\Valasztas\\Valasztas\\Valasztas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\konya.benedek\\source\\repos\\Valasztas\\Valasztas\\Valasztas.csproj",
+        "projectUniqueName": "C:\\Users\\konya.benedek\\Source\\Repos\\WebAppAdatbazis\\Valasztas\\Valasztas\\Valasztas.csproj",
         "projectName": "Valasztas",
-        "projectPath": "C:\\Users\\konya.benedek\\source\\repos\\Valasztas\\Valasztas\\Valasztas.csproj",
+        "projectPath": "C:\\Users\\konya.benedek\\Source\\Repos\\WebAppAdatbazis\\Valasztas\\Valasztas\\Valasztas.csproj",
         "packagesPath": "C:\\Users\\konya.benedek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\konya.benedek\\source\\repos\\Valasztas\\Valasztas\\obj\\",
+        "outputPath": "C:\\Users\\konya.benedek\\Source\\Repos\\WebAppAdatbazis\\Valasztas\\Valasztas\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\konya.benedek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             }
           },
           "imports": [

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valasztas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+546aa81190266e2d330ba9aa1aa27b23400cb92a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valasztas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valasztas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
